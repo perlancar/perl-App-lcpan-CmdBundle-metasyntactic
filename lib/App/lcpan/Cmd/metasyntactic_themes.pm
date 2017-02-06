@@ -18,6 +18,7 @@ $SPEC{handle_cmd} = {
     args => {
         %App::lcpan::common_args,
         %App::lcpan::detail_args,
+        %App::lcpan::fauthor_args,
     },
 };
 sub handle_cmd {
