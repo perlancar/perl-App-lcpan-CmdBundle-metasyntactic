@@ -2,3 +2,4 @@ App-lcpan-CmdBundle-metasyntactic-*
 .build
 *~
 nytprof*
+.DS_Store
